@@ -1,0 +1,19 @@
+{
+  "name": "tests-javascript",
+  "version": "1.0.0",
+  "description": "Tests with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabarros/javascript-tests.git"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabarros/javascript-tests/issues"
+  },
+  "homepage": "https://github.com/Gabarros/javascript-tests#readme"
+}
